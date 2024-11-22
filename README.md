@@ -4,3 +4,4 @@
 3. Conditional Statement and Logical Operation Assessment 3
 4. Loops Assessment 4
 5. Functions Assessment 5
+6. list Assessment 6
