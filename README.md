@@ -5,3 +5,5 @@
 4. Loops Assessment 4
 5. Functions Assessment 5
 6. list Assessment 6
+7. Filehandler 7
+8. 
